@@ -10,4 +10,3 @@ if __name__ == "__main__":
         print(":")
         for i in range(1, len(sys.argv)):
             print("{:d}: {:s}".format(i, sys.argv[i]))
-            
